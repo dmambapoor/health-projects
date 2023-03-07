@@ -1,0 +1,2 @@
+# Liver Cirrhosis Prediction
+This project follows Toward's Data Science's [health projects](https://towardsdatascience.com/5-data-science-projects-in-healthcare-that-will-get-you-hired-81003cadf2f3) and uses the associated [Kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset?resource=download).
