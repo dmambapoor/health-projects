@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/health_projects.egg-info/PKG-INFO
+src/health_projects.egg-info/SOURCES.txt
+src/health_projects.egg-info/dependency_links.txt
+src/health_projects.egg-info/not-zip-safe
+src/health_projects.egg-info/top_level.txt
